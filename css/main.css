@@ -123,6 +123,7 @@ nav h4{
 	color: #FFFFFF;
 }
 nav p{
+	width: 24%;
 	padding-bottom: 1%;
 	padding-left: 1%;
 	margin-left: 17%;
@@ -139,4 +140,25 @@ button{
 	font-size: 2em;
 	color: #7625fb;
 	background-color:#FFFFFF;
+	border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+	width: 24%;
+	height: 50px;
+}
+@media screen and (max-width: 1366px){
+	.erorr{
+		font-size: 1.7em;
+	}
+	header h2{
+		margin-left: 28%;
+	}
+	.second-paragraph{
+		font-size: 1.5em;
+	}
+	img{
+		margin-left: 18%;
+	}
+
 }
