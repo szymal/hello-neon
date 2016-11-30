@@ -1,0 +1,142 @@
+html{
+	font-size: 62.5%;
+}
+header{
+	background-image: url(..//img/herobanner.png);
+	height: 23%;
+}
+header h2{
+	color: #FFFFFF;
+	font-size: 32em;
+	margin: 0;
+	margin-left: 30%;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+}
+.social li{
+	list-style-type: none;
+	border-radius: 80%;
+	background-color: #5c16b7;
+	width: 2%;
+	height: 2%;
+	text-align: center;
+}
+
+nav li{
+	color: #FFFFFF;
+	list-style-type: none;
+	margin-right: 3.5%;
+	font-size: 3em;
+	padding-bottom: 7%;
+}
+nav ul{
+	display: flex;
+	margin-left: 33%;
+}
+article{
+	background-color: #f2f2f2;
+
+}
+article h2{
+	color: #7625fb;
+	font-size: 6em;
+	margin: 0;
+	margin-left: 17%;
+	padding-top: 3%;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+}
+.erorr{
+	padding-top: 2%;
+	width: 27%;
+	font-size: 2.3em;
+	margin-left: 17%;
+	display: flex;
+	padding-bottom: 3%;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+}
+.paragraph{
+	display: flex;
+}
+img{
+	margin-top: 3%;
+	background-color: #FFFFFF;
+	width: 30%;
+	margin-left: 10%;
+	height: 16%;
+}
+.second-article{
+	background-color: #FFFFFF;
+	display: flex;
+}
+.second{
+	color: #7625fb;
+	margin: 0;
+	margin-left: 17%;
+	font-size: 6em;
+	margin-right: 4%;
+
+}
+.second-paragraph{
+	font-size: 1.9em;
+	font-family: 'Karla', sans-serif;
+	font-weight: 400;
+	padding-top: 3%;
+	padding-bottom: 2%;
+}
+.banner{
+	background-image: url(..//img/GradientMap2.png);
+	background-size: cover;
+}
+aside h3{
+	font-size: 5em;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+	color: #FFFFFF;
+	margin-left: 17%;
+	padding-top: 13%;
+	padding-bottom: 5%;
+	margin-bottom: 0;
+}
+.info{
+
+	background: linear-gradient(#e2d0fe, #7d30fb);
+
+
+}
+nav h3{
+
+	margin-top: 0;
+	padding-top: 3.5%;
+	margin-left: 17%;
+	font-size: 6em;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+	color: #7625fb;
+}
+nav h4{
+	margin-left: 17%;
+	font-size: 4em;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+	color: #FFFFFF;
+}
+nav p{
+	padding-bottom: 1%;
+	padding-left: 1%;
+	margin-left: 17%;
+	color: #FFFFFF;
+	font-size: 2em;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+	border-bottom: 2px solid #FFFFFF;
+}
+button{
+	margin-left: 17%;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 400;
+	font-size: 2em;
+	color: #7625fb;
+	background-color:#FFFFFF;
+}
